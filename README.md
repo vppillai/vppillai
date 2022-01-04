@@ -4,8 +4,20 @@
 
 💬 Ask me about **embedded systems**, **system security**, **cloud connected systems**, **CI/CD for embedded systems**
 
-🔗 My blog is at https://embeddedinn.xyz
+🔗 My blog : https://embeddedinn.xyz
  
+
+## Some of the tools that I maintain.
+
+1. [Crypto Scripts](https://vppillai.github.io/cryptoScript/)
+    1. [Crypto Header Generator](https://vppillai.github.io/cryptoScript/CryptoHeaderGen.html)
+    2. [ECDSA File Signer with webCrypto](https://vppillai.github.io/cryptoScript/FileSigner.html)
+2. [Microchip Wireless Project Listing](https://vppillai.github.io/WFI32Projects/)
+3. [Vishnu Sahasranamam learning tool](https://sruthi.xyz/) 
+4. [Harmony3 repo manager CLI](https://github.com/vppillai/H3Restore)
+5. [Harmony3 Project Memory Analyzer](https://github.com/vppillai/MPLABXMemoryAnalyzer)
+6. [Harmony3 Peoject renamer](https://github.com/vppillai/H3Rename)
+7. [WFI32 PPS selector](https://vppillai.github.io/WFI32E01-PPS-Selector/)
 
 ## Here are some stats from my work here at GitHub 
 
