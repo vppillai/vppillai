@@ -15,6 +15,8 @@
 <a href="https://www.youtube.com/c/embeddedinn" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="embeddedinn" height="30" width="40" /></a>
 <br/>
 
+<img style="display: block;  margin-left: auto;  margin-right: auto;  width: 100%;" src="https://raw.githubusercontent.com/vppillai/vppillai/output/github-contribution-grid-snake.svg" />
+
 ## 💻 Languages and tools I work with 
 > &nbsp;
 <a><img width="40" height="40" alt="embeddedC" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" /></a>
