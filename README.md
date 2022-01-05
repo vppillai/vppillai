@@ -19,37 +19,37 @@
 
 ## 💻 Languages and tools I work with 
 > &nbsp;
-<a><img width="40" height="40" alt="embeddedC" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" /></a>
+<a><img width="50" height="50" alt="embeddedC" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" /></a>
 <a><img width="40" height="40" alt="gcc" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" /></a>
-<a><img width="40" height="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></a>
-<a><img width="40" height="40" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
-<a><img width="40" height="40" alt="Python"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></a></a>
-<a><img width="60" height="40" alt="qemu" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Qemu_logo.svg" /></a>
-<a><img width="60" height="40" alt="riscv" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/RISC-V-logo.svg" /> </a>
+<a><img width="40" height="40" alt="git" src="https://raw.githubusercontent.com/embeddedinn/embeddedinn.github.io/master/images/misc/devicons/git-original-wordmark_dark.svg" /></a>
+<a><img width="40" height="40" alt="github" src="https://raw.githubusercontent.com/embeddedinn/embeddedinn.github.io/master/images/misc/devicons/github-original_dark.svg" /></a>
+<a><img width="40" height="40" alt="Python"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></a>
+<a><img width="60" height="40" alt="qemu" src="https://raw.githubusercontent.com/embeddedinn/embeddedinn.github.io/master/images/misc/devicons/Qemu_logo-dark.svg" /></a>
+<a><img width="60" height="40" alt="riscv" src="https://raw.githubusercontent.com/embeddedinn/embeddedinn.github.io/master/images/misc/devicons/RISC-V-logo_dark.svg" /> </a>
 <a><img width="40" height="40" alt="raspberry" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></a>
 <a><img width="40" height="40" alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /></a>
 <a><img width="40" height="40" alt="vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
 <a><img width="40" height="40" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
 <a><img width="40" height="40" alt="jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></a>
-<a><img width="40" height="40" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></a>
+<a><img width="40" height="40" alt="bash" src="https://raw.githubusercontent.com/embeddedinn/embeddedinn.github.io/master/images/misc/devicons/bash-plain_dark.svg" /></a>
 <a><img width="40" height="40" alt="putty" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" /></a>
-<a><img width="40" height="40" alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" /></a></a>
+<a><img width="40" height="40" alt="AWS" src="https://raw.githubusercontent.com/embeddedinn/embeddedinn.github.io/master/images/misc/devicons/Amazon_Web_Services_Logo_dark.svg" /></a></a>
 <a><img width="40" height="40" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /></a>
 <a><img width="40" height="40" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /></a>
 <a><img width="40" height="40" alt="google" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
 <a><img width="40" height="40" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a>
 <a><img width="40" height="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
 <a><img width="40" height="40" alt="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></a>
-<a><img width="40" height="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
-<a><img width="40" height="40" alt="nodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="mysql" src="https://raw.githubusercontent.com/embeddedinn/embeddedinn.github.io/master/images/misc/devicons/mysql-original-wordmark_dark.svg" /></a>
+<a><img width="40" height="40" alt="nodeJS" src="https://raw.githubusercontent.com/embeddedinn/embeddedinn.github.io/master/images/misc/devicons/nodejs-original-wordmark_dark.svg" /></a>
 <a><img width="40" height="40" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></a>
 <a><img width="40" height="40" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a></a>
-<a><img width="40" height="40" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></a>
-<a><img width="40" height="40" alt="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="docker" src="https://raw.githubusercontent.com/embeddedinn/embeddedinn.github.io/master/images/misc/devicons/docker-original-wordmark_dark.svg" /></a>
+<a><img width="40" height="40" alt="pandas" src="https://raw.githubusercontent.com/embeddedinn/embeddedinn.github.io/master/images/misc/devicons/pandas-original-wordmark_dark.svg" /></a>
 <a><img width="40" height="40" alt="tensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
 <a><img width="40" height="40" alt="electron" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /></a>
 <a><img width="40" height="40" alt="filezilla" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" /></a>
-<a><img width="40" height="40" alt="inkscape" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="inkscape" src="https://raw.githubusercontent.com/embeddedinn/embeddedinn.github.io/master/images/misc/devicons/inkscape-original-wordmark_dark.svg" /></a>
 <a><img width="40" height="40" alt="salesforce" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" /></a>
 <br/>
 
