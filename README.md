@@ -12,6 +12,11 @@
 
 ## ✍🏿 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [System Hardware Partitioning Using Device Trees in a Virtualized System](https://www.embeddedinn.xyz/articles/tutorial/System_Partitioning_Using_Device_Trees_in_a_Virtualized_System/)
+- [Building a barebones web-push server](https://www.embeddedinn.xyz/articles/tutorial/Building-a-barebones-web-push-server/)
+- [Exploring virtualization in RISC-V machines](https://www.embeddedinn.xyz/articles/tutorial/exploring_virtualization_in_riscv_machines/)
+- [Adding a custom peripheral to QEMU RISC-V machine emulation &amp;amp; interacting with it using bare-metal C code](https://www.embeddedinn.xyz/articles/tutorial/Adding-a-custom-peripheral-to-QEMU/)
+- [Linux &amp;amp; Python on RISC-V using QEMU from scratch](https://www.embeddedinn.xyz/articles/tutorial/Linux-Python-on-RISCV-using-QEMU-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
