@@ -1,14 +1,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vppillai&label=Profile%20views&color=0e75b6&style=flat" alt="vppillai" /> </p>
-## Hi there 👋, I am Vysakh P Pillai
+
+# Hi there 👋, I am Vysakh P Pillai
 
 😄 Pronouns: He/Him/His
 
 💬 Ask me about **embedded systems**, **system security**, **cloud connected systems**, **CI/CD for embedded systems**
 
 🔗 My blog : https://embeddedinn.xyz
- 
 
-## Some of the tools that I maintain.
+<br/>
+
+## ✍🏿 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+## 🛠️ Some of the tools that I maintain.
 
 1. [Crypto Scripts](https://vppillai.github.io/cryptoScript/)
     1. [Crypto Header Generator](https://vppillai.github.io/cryptoScript/CryptoHeaderGen.html)
@@ -19,18 +27,19 @@
 5. [Harmony3 Project Memory Analyzer](https://github.com/vppillai/MPLABXMemoryAnalyzer)
 6. [Harmony3 Peoject renamer](https://github.com/vppillai/H3Rename)
 7. [WFI32 PPS selector](https://vppillai.github.io/WFI32E01-PPS-Selector/)
+<br/>
 
-## Connect with me:
-
+## 🌏 Connect with me:
+> &nbsp;
 <a href="https://twitter.com/vysakhpillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vysakh-pillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="vysakh-pillai" height="30" width="40" /></a>
 <a href="https://fb.com/vysakhpillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/embeddedinn" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="embeddedinn" height="30" width="40" /></a>
-</p>
 
+<br/>
 
-## Languages and tools I work with 
-
+## 💻 Languages and tools I work with 
+> &nbsp;
 <a><img width="40" height="40" alt="embeddedC" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" /></a>
 <a><img width="40" height="40" alt="gcc" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" /></a>
 <a><img width="40" height="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></a>
@@ -64,9 +73,9 @@
 <a><img width="40" height="40" alt="inkscape" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" /></a>
 <a><img width="40" height="40" alt="salesforce" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" /></a>
 
+<br/>
 
-
-## Here are some stats from my work here at GitHub 
+## 🥇 Here are some stats from my work here at GitHub 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vppillai&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="vppillai's monthly coding activity" />
 
 |                                                            &nbsp;                                                             |                                                                                                          &nbsp;                                                                                                          |
