@@ -8,16 +8,12 @@
 
 🔗 My blog : https://embeddedinn.xyz
 
-
-
-## 🌏 Connect with me:
-> &nbsp;
+<a> 🌏 Social :  </a>
 <a href="https://twitter.com/vysakhpillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vysakh-pillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="vysakh-pillai" height="30" width="40" /></a>
 <a href="https://fb.com/vysakhpillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/embeddedinn" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="embeddedinn" height="30" width="40" /></a>
-
-
+<br/>
 
 ## 💻 Languages and tools I work with 
 > &nbsp;
@@ -53,17 +49,7 @@
 <a><img width="40" height="40" alt="filezilla" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" /></a>
 <a><img width="40" height="40" alt="inkscape" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" /></a>
 <a><img width="40" height="40" alt="salesforce" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" /></a>
-
-
-
-## 🥇 Here are some stats from my work here at GitHub 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=vppillai&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="vppillai's monthly coding activity" />
-
-|                                                            &nbsp;                                                             |                                                                                                          &nbsp;                                                                                                          |
-| :---------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=vppillai&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D"/> | <img src="https://github-readme-stats.vercel.app/api?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact"/> |
-|    <img src="https://github-profile-trophy.vercel.app/?username=subeshb1&theme=dracula&column=3&margin-w=15&margin-h=15">     |  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact"/>   |
-
+<br/>
 
 ## ✍🏿 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -74,8 +60,19 @@
 - [Linux &amp;amp; Python on RISC-V using QEMU from scratch](https://www.embeddedinn.xyz/articles/tutorial/Linux-Python-on-RISCV-using-QEMU-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
+## 🥇 Here are some stats from my work here at GitHub 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=vppillai&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="vppillai's monthly coding activity" />
 
-## 🛠️ Some tools that I maintain.
+|                                                            &nbsp;                                                             |                                                                                                          &nbsp;                                                                                                          |
+| :---------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=vppillai&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D"/> | <img src="https://github-readme-stats.vercel.app/api?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact"/> |
+|    <img src="https://github-profile-trophy.vercel.app/?username=subeshb1&theme=dracula&column=3&margin-w=15&margin-h=15">     |  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact"/>   |
+
+
+
+
+
+## 🛠️ Some tools I maintain
 
 1. [Crypto Scripts](https://vppillai.github.io/cryptoScript/)
     1. [Crypto Header Generator](https://vppillai.github.io/cryptoScript/CryptoHeaderGen.html)
