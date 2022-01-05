@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Vysakh P Pillai
 
 😄 Pronouns: He/Him/His
 
@@ -19,14 +19,56 @@
 6. [Harmony3 Peoject renamer](https://github.com/vppillai/H3Rename)
 7. [WFI32 PPS selector](https://vppillai.github.io/WFI32E01-PPS-Selector/)
 
+## Connect with me:
+<a href="https://twitter.com/vysakhpillai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vysakh-pillai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="vysakh-pillai" height="30" width="40" /></a>
+<a href="https://fb.com/vysakhpillai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/embeddedinn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="embeddedinn" height="30" width="40" /></a>
+</p>
+
+
+## Languages and tools I work with 
+
+<a><img width="40" height="40" alt="embeddedC" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="gcc" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" /></a>
+<a><img width="40" height="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+<a><img width="40" height="40" alt="Python"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></a></a>
+<a><img width="60" height="40" alt="qemu" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Qemu_logo.svg" /></a>
+<a><img width="60" height="40" alt="riscv" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/RISC-V-logo.svg" /> </a>
+<a><img width="40" height="40" alt="raspberry" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></a>
+<a><img width="40" height="40" alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
+<a><img width="40" height="40" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+<a><img width="40" height="40" alt="jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></a>
+<a><img width="40" height="40" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></a>
+<a><img width="40" height="40" alt="putty" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" /></a>
+<a><img width="40" height="40" alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" /></a></a>
+<a><img width="40" height="40" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="google" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
+<a><img width="40" height="40" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></a>
+<a><img width="40" height="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="nodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a></a>
+<a><img width="40" height="40" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="tensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
+<a><img width="40" height="40" alt="electron" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /></a>
+<a><img width="40" height="40" alt="filezilla" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" /></a>
+<a><img width="40" height="40" alt="inkscape" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" /></a>
+<a><img width="40" height="40" alt="salesforce" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" /></a>
+
+
+
 ## Here are some stats from my work here at GitHub 
 
 ![0xvppillai github stats](https://github-readme-stats.vercel.app/api?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact) ![0xvppillai top langs](https://github-readme-stats.vercel.app/api/top-langs?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact)
 
 <img src="https://github-profile-trophy.vercel.app/?username=subeshb1&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
-
-
-
 
 
 <!--
