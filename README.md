@@ -67,9 +67,9 @@
 
 
 ## Here are some stats from my work here at GitHub 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=vppillai&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="vppillai's monthly coding activity" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vppillai&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)    ![0xvppillai top langs](https://github-readme-stats.vercel.app/api/top-langs?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact)
-
-![0xvppillai github stats](https://github-readme-stats.vercel.app/api?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact) 
-
-<img src="https://github-profile-trophy.vercel.app/?username=subeshb1&theme=dracula&column=3&margin-w=15&margin-h=15">
+|                                                            &nbsp;                                                             |                                                                                                          &nbsp;                                                                                                          |
+| :---------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=vppillai&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D"/> | <img src="https://github-readme-stats.vercel.app/api?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact"/> |
+|    <img src="https://github-profile-trophy.vercel.app/?username=subeshb1&theme=dracula&column=3&margin-w=15&margin-h=15">     |  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact"/>   |
