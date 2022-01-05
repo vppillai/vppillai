@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vppillai&label=Profile%20views&color=0e75b6&style=flat" alt="vppillai" /> </p>
 ## Hi there 👋, I am Vysakh P Pillai
 
 😄 Pronouns: He/Him/His
@@ -20,10 +21,11 @@
 7. [WFI32 PPS selector](https://vppillai.github.io/WFI32E01-PPS-Selector/)
 
 ## Connect with me:
-<a href="https://twitter.com/vysakhpillai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vysakh-pillai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="vysakh-pillai" height="30" width="40" /></a>
-<a href="https://fb.com/vysakhpillai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/embeddedinn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="embeddedinn" height="30" width="40" /></a>
+
+<a href="https://twitter.com/vysakhpillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vysakh-pillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="vysakh-pillai" height="30" width="40" /></a>
+<a href="https://fb.com/vysakhpillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/embeddedinn" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="embeddedinn" height="30" width="40" /></a>
 </p>
 
 
@@ -66,20 +68,8 @@
 
 ## Here are some stats from my work here at GitHub 
 
-![0xvppillai github stats](https://github-readme-stats.vercel.app/api?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact) ![0xvppillai top langs](https://github-readme-stats.vercel.app/api/top-langs?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vppillai&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)    ![0xvppillai top langs](https://github-readme-stats.vercel.app/api/top-langs?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact)
 
-<img src="https://github-profile-trophy.vercel.app/?username=subeshb1&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+![0xvppillai github stats](https://github-readme-stats.vercel.app/api?username=vppillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact) 
 
-
-<!--
-**vppillai/vppillai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-profile-trophy.vercel.app/?username=subeshb1&theme=dracula&column=3&margin-w=15&margin-h=15">
