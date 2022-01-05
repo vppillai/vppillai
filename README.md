@@ -11,7 +11,6 @@
 <a> 🌏 Social :  </a>
 <a href="https://twitter.com/vysakhpillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vysakh-pillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="vysakh-pillai" height="30" width="40" /></a>
-<a href="https://fb.com/vysakhpillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/embeddedinn" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="embeddedinn" height="30" width="40" /></a>
 <a href="https://t.me/vysakhpillai" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="30" width="40" /></a>
 <br/>
