@@ -55,7 +55,7 @@
 
 ## ✍🏿 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker 101 for embedded systems DevOps](https://www.embeddedinn.xyz/articles/tutorial/Docker101_for_embedded_systems_DevOps/)
+- [Docker 101 for embedded systems Dev and DevOps](https://www.embeddedinn.xyz/articles/tutorial/Docker101_for_embedded_systems_DevOps/)
 - [System Hardware Partitioning Using Device Trees in a Virtualized System](https://www.embeddedinn.xyz/articles/tutorial/System_Partitioning_Using_Device_Trees_in_a_Virtualized_System/)
 - [Building a barebones web-push server](https://www.embeddedinn.xyz/articles/tutorial/Building-a-barebones-web-push-server/)
 - [Exploring virtualization in RISC-V machines](https://www.embeddedinn.xyz/articles/tutorial/exploring_virtualization_in_riscv_machines/)
