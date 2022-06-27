@@ -55,11 +55,11 @@
 
 ## ✍🏿 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows subsystem for Linux - tips, tricks and notes](https://www.embeddedinn.xyz/articles/tutorial/WSL-tips-and-tricks/)
 - [Adding Custom Packages to Buildroot](https://www.embeddedinn.xyz/articles/tutorial/Adding-Custom-Packages-to-Buildroot/)
 - [Docker 101 for embedded systems Dev and DevOps](https://www.embeddedinn.xyz/articles/tutorial/Docker101_for_embedded_systems_DevOps/)
 - [System Hardware Partitioning Using Device Trees in a Virtualized System](https://www.embeddedinn.xyz/articles/tutorial/System_Partitioning_Using_Device_Trees_in_a_Virtualized_System/)
 - [Building a barebones web-push server](https://www.embeddedinn.xyz/articles/tutorial/Building-a-barebones-web-push-server/)
-- [Exploring virtualization in RISC-V machines](https://www.embeddedinn.xyz/articles/tutorial/exploring_virtualization_in_riscv_machines/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🥇 Here are some stats from my work here at GitHub 
