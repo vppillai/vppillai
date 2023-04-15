@@ -55,11 +55,11 @@
 
 ## ✍🏿 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Hands-On Guide to Sharing Files and Folders between Host and RISC-V QEMU Machine](https://www.embeddedinn.xyz/articles/tutorial/Hands-On-Guide-to-Sharing-Files-and-Folders-between-Host-and-RISC-V-QEMU-Machine/)
 - [Uncovering the Mysteries of Linux Boot on RISC-V QEMU Machines - A Deep Dive into the Boot Process](https://www.embeddedinn.xyz/articles/tutorial/RISCV-Uncovering-the-Mysteries-of-Linux-Boot-on-RISC-V-QEMU-Machines/)
 - [Understanding RISC-V semihosting](https://www.embeddedinn.xyz/articles/tutorial/understanding-riscv-semihosting/)
 - [Setting up GitHub SSO for your website with NGINX and Vouch Proxy](https://www.embeddedinn.xyz/articles/tutorial/github-sso-for-your-website/)
 - [Creating the littlefs-tools Python package and auto-deploying it to PyPI with a CI/CD pipeline](https://www.embeddedinn.xyz/articles/tutorial/littlefs-tools-pypi-deploy-actions/)
-- [Deploying AWS Lambdas with Custom GitHub Actions](https://www.embeddedinn.xyz/articles/tutorial/deploying-aws-lambdas-with-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🥇 Here are some stats from my work here at GitHub 
