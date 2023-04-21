@@ -53,6 +53,7 @@
 <a><img width="40" height="40" alt="filezilla" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" /></a>
 <a><img width="40" height="40" alt="inkscape" src="https://raw.githubusercontent.com/embeddedinn/embeddedinn.github.io/master/images/misc/devicons/inkscape-original-wordmark_dark.svg" /></a>
 <a><img width="40" height="40" alt="salesforce" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" /></a>
+<a><img width="40" height="40" alt="salesforce" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" /></a>
 <br/>
 
 ## ✍🏿 Latest Blog Posts
