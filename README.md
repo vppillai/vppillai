@@ -58,11 +58,11 @@
 
 ## ✍🏿 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Guts of Git - A deep dive into the internals of the Git version control system](https://www.embeddedinn.xyz/articles/tutorial/Guts-of-Git/)
-- [Demystifying Digital Signatures - A Step-by-Step Guide to Understanding and Using Secure Digital Signatures](https://www.embeddedinn.xyz/articles/tutorial/Demystifying-Digital-Signatures/)
-- [A Hands-On Guide to Sharing Files and Folders between Host and RISC-V QEMU Machine](https://www.embeddedinn.xyz/articles/tutorial/Hands-On-Guide-to-Sharing-Files-and-Folders-between-Host-and-RISC-V-QEMU-Machine/)
-- [Uncovering the Mysteries of Linux Boot on RISC-V QEMU Machines - A Deep Dive into the Boot Process](https://www.embeddedinn.xyz/articles/tutorial/RISCV-Uncovering-the-Mysteries-of-Linux-Boot-on-RISC-V-QEMU-Machines/)
-- [Understanding RISC-V semihosting](https://www.embeddedinn.xyz/articles/tutorial/understanding-riscv-semihosting/)
+- [Guts of Git - A deep dive into the internals of the Git version control system](https://www.embeddedinn.com/articles/tutorial/Guts-of-Git/)
+- [Demystifying Digital Signatures - A Step-by-Step Guide to Understanding and Using Secure Digital Signatures](https://www.embeddedinn.com/articles/tutorial/Demystifying-Digital-Signatures/)
+- [A Hands-On Guide to Sharing Files and Folders between Host and RISC-V QEMU Machine](https://www.embeddedinn.com/articles/tutorial/Hands-On-Guide-to-Sharing-Files-and-Folders-between-Host-and-RISC-V-QEMU-Machine/)
+- [Uncovering the Mysteries of Linux Boot on RISC-V QEMU Machines - A Deep Dive into the Boot Process](https://www.embeddedinn.com/articles/tutorial/RISCV-Uncovering-the-Mysteries-of-Linux-Boot-on-RISC-V-QEMU-Machines/)
+- [Understanding RISC-V semihosting](https://www.embeddedinn.com/articles/tutorial/understanding-riscv-semihosting/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🥇 Here are some stats from my work here at GitHub 
