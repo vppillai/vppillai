@@ -17,8 +17,6 @@
 
 <a href="https://www.buymeacoffee.com/embeddedinn"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=embeddedinn&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-<img style="display: block;  margin-left: auto;  margin-right: auto;  width: 100%;" src="https://raw.githubusercontent.com/vppillai/vppillai/output/github-contribution-grid-snake.svg" />
-
 ## 💻 Languages and tools I work with 
 > &nbsp;
 <a><img width="50" height="50" alt="embeddedC" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" /></a>
