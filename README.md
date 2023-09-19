@@ -6,7 +6,7 @@
 
 💬 Ask me about **embedded systems**, **system security**, **cloud connected systems**, **CI/CD for embedded systems**
 
-🔗 My blog : https://embeddedinn.xyz
+🔗 My blog : https://embeddedinn.com
 
 <a> 🌏 Social :  </a>
 <a href="https://twitter.com/vysakhpillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
