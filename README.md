@@ -56,7 +56,7 @@
 
 ## ✍🏿 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing Device Tree for Bare-Metal Embedded Systems - A Non-Linux Approach](https://www.embeddedinn.com/articles/tutorial/Device-Tree-on-metal/)
+- [Harnessing Devicetree for Bare-Metal Embedded Systems - A Non-Linux Approach](https://www.embeddedinn.com/articles/tutorial/Device-Tree-on-metal/)
 - [Building Bespoke Debian Distros for RISC-V](https://www.embeddedinn.com/articles/tutorial/building-a-bespoke-RISCV-debian-distro/)
 - [Guts of Git - A deep dive into the internals of the Git version control system](https://www.embeddedinn.com/articles/tutorial/Guts-of-Git/)
 - [Demystifying Digital Signatures - A Step-by-Step Guide to Understanding and Using Secure Digital Signatures](https://www.embeddedinn.com/articles/tutorial/Demystifying-Digital-Signatures/)
