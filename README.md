@@ -4,9 +4,12 @@
 
 😄 Pronouns: He/Him/His
 
-💬 Ask me about **embedded systems**, **system security**, **cloud connected systems**, **CI/CD for embedded systems**
+💬 Ask me about **High Performance systems**, **Firmware Architecture**, **embedded systems**, **system security**, **cloud connected systems**, **CI/CD & DevOps**
 
-🔗 My blog : https://embeddedinn.com
+🔗 **My blog** : https://embeddedinn.com
+
+💼 **My Professional Profile** : https://embeddedinn.com/cv
+
 
 <a> 🌏 Social :  </a>
 <a href="https://twitter.com/vysakhpillai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="vysakhpillai" height="30" width="40" /></a>
@@ -63,8 +66,20 @@
 - [Demystifying Digital Signatures - A Step-by-Step Guide to Understanding and Using Secure Digital Signatures](https://www.embeddedinn.com/articles/tutorial/Demystifying-Digital-Signatures/)
 <!-- BLOG-POST-LIST:END -->
 
+
+## 🛠️ Some tools I maintain
+
+1. [Crypto Scripts](https://vppillai.github.io/cryptoScript/)
+    1. [Crypto Header Generator](https://vppillai.github.io/cryptoScript/CryptoHeaderGen.html)
+    2. [ECDSA File Signer with webCrypto](https://vppillai.github.io/cryptoScript/FileSigner.html)
+2. [Microchip Wireless Project Listing](https://vppillai.github.io/WFI32Projects/)
+3. [Vishnu Sahasranamam learning tool](https://vppillai.github.io/sruthi/) 
+4. [Harmony3 repo manager CLI](https://github.com/vppillai/H3Restore)
+5. [Harmony3 Project Memory Analyzer](https://github.com/vppillai/MPLABXMemoryAnalyzer)
+6. [Harmony3 Peoject renamer](https://github.com/vppillai/H3Rename)
+7. [WFI32 PPS selector](https://vppillai.github.io/WFI32E01-PPS-Selector/)
+
 ## 🥇 Here are some stats from my work here at GitHub 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=vppillai&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="vppillai's monthly coding activity" />
 
 |                                                            &nbsp;                                                             |                                                                                                          &nbsp;                                                                                                          |
 | :---------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -73,17 +88,4 @@
 
 
 
-
-
-## 🛠️ Some tools I maintain
-
-1. [Crypto Scripts](https://vppillai.github.io/cryptoScript/)
-    1. [Crypto Header Generator](https://vppillai.github.io/cryptoScript/CryptoHeaderGen.html)
-    2. [ECDSA File Signer with webCrypto](https://vppillai.github.io/cryptoScript/FileSigner.html)
-2. [Microchip Wireless Project Listing](https://vppillai.github.io/WFI32Projects/)
-3. [Vishnu Sahasranamam learning tool](https://sruthi.xyz/) 
-4. [Harmony3 repo manager CLI](https://github.com/vppillai/H3Restore)
-5. [Harmony3 Project Memory Analyzer](https://github.com/vppillai/MPLABXMemoryAnalyzer)
-6. [Harmony3 Peoject renamer](https://github.com/vppillai/H3Rename)
-7. [WFI32 PPS selector](https://vppillai.github.io/WFI32E01-PPS-Selector/)
 
