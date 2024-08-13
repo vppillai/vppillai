@@ -59,11 +59,11 @@
 
 ## ✍🏿 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Accessing Complex C Data Structures from Python](https://www.embeddedinn.com/articles/tutorial/Accessing-complex-ds-from-python/)
 - [Setting up a development environment for RISCV-FreeRTOS on QEMU](https://www.embeddedinn.com/articles/tutorial/RISCV-FreeRTOS-QEMU/)
 - [Bridging the Gap - Why I Share My Engineering Journey Through Blogging](https://www.embeddedinn.com/articles/tutorial/Why-I-Blog/)
 - [Harnessing Devicetree for Bare-Metal Embedded Systems - A Non-Linux Approach](https://www.embeddedinn.com/articles/tutorial/Device-Tree-on-metal/)
 - [Building Bespoke Debian Distros for RISC-V](https://www.embeddedinn.com/articles/tutorial/building-a-bespoke-RISCV-debian-distro/)
-- [Guts of Git - A deep dive into the internals of the Git version control system](https://www.embeddedinn.com/articles/tutorial/Guts-of-Git/)
 <!-- BLOG-POST-LIST:END -->
 
 
