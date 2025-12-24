@@ -59,11 +59,11 @@
 
 ## ✍🏿 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a RISC-V Processor with Chipyard: Debugging the Halt Failure](https://www.embeddedinn.com/articles/tutorial/RISCV-with-Chipyard/)
 - [Building a load-balanced production infrastructure in AWS](https://www.embeddedinn.com/articles/tutorial/Building-a-loadbalanced-production-infrastructure-in-aws/)
 - [Accessing Complex C Data Structures from Python](https://www.embeddedinn.com/articles/tutorial/Accessing-complex-ds-from-python/)
 - [Setting up a development environment for RISCV-FreeRTOS on QEMU](https://www.embeddedinn.com/articles/tutorial/RISCV-FreeRTOS-QEMU/)
 - [Bridging the Gap - Why I Share My Engineering Journey Through Blogging](https://www.embeddedinn.com/articles/tutorial/Why-I-Blog/)
-- [Harnessing Devicetree for Bare-Metal Embedded Systems - A Non-Linux Approach](https://www.embeddedinn.com/articles/tutorial/Device-Tree-on-metal/)
 <!-- BLOG-POST-LIST:END -->
 
 
