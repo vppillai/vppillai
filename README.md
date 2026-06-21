@@ -59,11 +59,11 @@
 
 ## ✍🏿 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An AI-Assisted Chip Design Journey: Taping Out a VGA Demo on Real Silicon](https://www.embeddedinn.com/articles/tutorial/Taping-Out-a-VGA-Demo-on-Real-Silicon/)
 - [Passbook: Architecting a Zero-Cost Serverless Kids Allowance Tracker and Delegating the Build to AI Agents](https://www.embeddedinn.com/articles/tutorial/Passbook-Serverless-Allowance-Tracker-Built-With-AI-Agents/)
 - [Building a RISC-V Processor with Chipyard: Debugging the Halt Failure](https://www.embeddedinn.com/articles/tutorial/RISCV-with-Chipyard/)
 - [Building a load-balanced production infrastructure in AWS](https://www.embeddedinn.com/articles/tutorial/Building-a-loadbalanced-production-infrastructure-in-aws/)
 - [Accessing Complex C Data Structures from Python](https://www.embeddedinn.com/articles/tutorial/Accessing-complex-ds-from-python/)
-- [Setting up a development environment for RISCV-FreeRTOS on QEMU](https://www.embeddedinn.com/articles/tutorial/RISCV-FreeRTOS-QEMU/)
 <!-- BLOG-POST-LIST:END -->
 
 
